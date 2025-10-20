@@ -1,0 +1,23 @@
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+html,body,#root{height:100%}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+  background:#f0f0f0;
+  color:#333;
+}
+:root{
+  --green:#2f6f4e;
+  --green-600:#4F8C6B;
+  --red:#d9534f;
+  --amber:#f0b429;
+  --panel:#ecf4f0;
+  --card:#fff;
+  --muted:#666;
+}
+button{cursor:pointer}
+
+

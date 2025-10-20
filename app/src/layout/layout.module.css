@@ -1,0 +1,14 @@
+.page{display:flex;min-height:100vh;background:#f5faf7}
+.sidebar{width:220px;background:#214d38;color:#fff;padding:16px 12px}
+.brand{background:#2a5a42;padding:10px 12px;border-radius:6px;margin-bottom:12px;font-weight:600}
+.menu{display:flex;flex-direction:column;gap:10px}
+.item{display:block;background:#2c6a4b;color:#fff;padding:10px 12px;border-radius:6px;text-decoration:none;transition:background .2s, transform .05s}
+.item:hover{background:#347557;transform:translateY(-1px)}
+.item.active{background:#4f8c6b;box-shadow:0 0 0 2px rgba(255,255,255,.15) inset}
+.logout{display:block;background:#4b4b4b;color:#fff;padding:10px 12px;border-radius:6px;text-decoration:none;margin-top:auto;transition:background .2s}
+.logout:hover{background:#5a5a5a}
+.content{flex:1;padding:24px}
+.panel{background:#ecf4f0;border-radius:12px;padding:24px}
+.card{background:#fff;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.05)}
+
+

@@ -1,0 +1,14 @@
+.section{background:#ecf4f0;border-radius:12px;padding:24px;margin-bottom:24px}
+.sectionTitle{font-size:28px;font-weight:700;margin-bottom:16px}
+.sectionBody{background:#fff;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.06);padding:24px}
+.field{display:flex;flex-direction:column;gap:8px;margin-bottom:16px}
+.label{color:#4b4b4b;font-size:14px}
+.control input,.control select,.control textarea{width:100%;padding:12px 14px;border:none;border-radius:6px;background:#f2f2f2}
+.actions{display:flex;gap:12px;margin-top:12px}
+.btn{padding:10px 14px;border:none;border-radius:6px;color:#fff}
+.primary{background:#2f6f4e}
+.warning{background:#f0b429}
+.danger{background:#d9534f}
+.secondary{background:#777}
+
+
